@@ -2,11 +2,10 @@
 
 ## A2 Sword Trail
 
-## C3 Sword Movement
-
-## C1 Enemy Despawn
+## C1 Enemy Death Animation
 
 ## C4 Blender -> Unreal Grease Pencil
+
 
 ---
 
@@ -15,10 +14,36 @@
 ## A1 Spawn Animation
 
 - artifacts: 
-  - https://github.com/SpicyRicecaker/ve-pon/commit/ea606c91e80fe5641e0dc3539153c8dfe9ba4e9c
+  - https://github.com/SpicyRicecaker/ve-pon/commit/b5d66920a43f95d3ffc482bce092ab0d9f8a5a90
+  
 
 - [ ] 6 keyframes
 - [ ] In-betweeners
+
+## A4 Sideways Enemy Attack Animation
+
+- artifacts:
+  - https://github.com/SpicyRicecaker/ve-pon/commit/0a033070b4b53f778403f81d1669d9116cb054fc
+
+## C3 Parry System
+
+- artifacts:
+  - https://github.com/SpicyRicecaker/ve-pon/commit/0a033070b4b53f778403f81d1669d9116cb054fc
+
+## A3 Enemy Overhead Attack Animation
+
+- artifacts:
+  - https://github.com/SpicyRicecaker/ve-pon/commit/0a033070b4b53f778403f81d1669d9116cb054fc
+
+---
+
+# Done
+
+## C6 Blade Physics
+
+- artifacts:
+  - https://github.com/SpicyRicecaker/ve-pon/commit/b79bd0c8d1f93d196bd1ba22fcdca3f15adfd99c
+- [x] Respond to physics on player sword overlap
 
 ## C5 Planar Regression
 
@@ -28,13 +53,3 @@
 - [x] initial prototype
 - blockers:
   - regression is inaccurate for high slopes
-  
----
-
-# Done
-
-# C6 Blade Physics
-
-- artifacts:
-  - https://github.com/SpicyRicecaker/ve-pon/commit/b79bd0c8d1f93d196bd1ba22fcdca3f15adfd99c
-- [x] Respond to physics on player sword overlap
