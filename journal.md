@@ -6,26 +6,13 @@
 
 ## C4 Blender -> Unreal Grease Pencil
 
+## A5 Sideways Enemy Attack Animation 2
 
 ---
 
 # WIP
 
-## A1 Spawn Animation
-
-- artifacts: 
-  - https://github.com/SpicyRicecaker/ve-pon/commit/b5d66920a43f95d3ffc482bce092ab0d9f8a5a90
-  
-
-- [ ] 6 keyframes
-- [ ] In-betweeners
-
 ## A4 Sideways Enemy Attack Animation
-
-- artifacts:
-  - https://github.com/SpicyRicecaker/ve-pon/commit/0a033070b4b53f778403f81d1669d9116cb054fc
-
-## C3 Parry System
 
 - artifacts:
   - https://github.com/SpicyRicecaker/ve-pon/commit/0a033070b4b53f778403f81d1669d9116cb054fc
@@ -38,6 +25,24 @@
 ---
 
 # Done
+
+## C7 Switch to `jj`
+
+- artifacts:
+  - ![alt text](image.png)
+
+## C3 Parry System
+
+- artifacts:
+  - https://github.com/SpicyRicecaker/ve-pon/commit/0a033070b4b53f778403f81d1669d9116cb054fc
+
+## A1 Spawn Animation
+
+- artifacts: 
+  - https://github.com/SpicyRicecaker/ve-pon/commit/b5d66920a43f95d3ffc482bce092ab0d9f8a5a90
+
+- [x] 6 keyframes
+- [x] In-betweeners
 
 ## C6 Blade Physics
 
